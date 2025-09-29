@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides information on course meeting times, prerequisites,
   grading, and academic expectations for homework assignments.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

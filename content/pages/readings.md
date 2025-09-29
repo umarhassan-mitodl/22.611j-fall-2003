@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides a bibliography of recommended books for the course.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -62,7 +64,7 @@ Huddlestone, R. H., and S. L. Leonard. _Plasma Diagnostic Techniques._ Burlingto
 
 Rose, D. J., and M. Clark, Jr._Plasmas and Controlled Fusion._ Cambridge, MA: MIT Press; New York, NY: John Wiley, 1961. ISBN: 9780262180061.
 
-![Buy at MIT Press](/images/mp_logo.gif) Miyamoto, K._Plasma Physics for Nuclear Fusion._ Revised ed. Cambridge, MA: {{% resource_link "a1eb7bc8-a6e3-46a7-9df1-1c5a57e802aa" "MIT Press" %}}, 1989. ISBN: 9780262631174.
+![Buy at MIT Press](/images/mp_logo.gif) Miyamoto, K._Plasma Physics for Nuclear Fusion._ Revised ed. Cambridge, MA: [MIT Press](https://mitpress.mit.edu/9780262631174), 1989. ISBN: 9780262631174.
 
 Wesson, J._Tokamaks._ 2nd ed. New York, NY: Oxford University Press, 1987. ISBN: 9780198563280.
 
